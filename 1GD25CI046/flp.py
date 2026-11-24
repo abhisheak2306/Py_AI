@@ -1,0 +1,14 @@
+'''num=int(input("Enter a number: "))
+for i in range(1,11):
+    print(num,"x",i,"=",num*i)
+
+    num="i"
+    for i in range(1,11):
+        print(i)'''
+total=0
+
+for i in range(1,11):
+    total=total+i
+
+    print("Sum =",total)
+      
